@@ -20,7 +20,7 @@ To get started with this project, you'll need to have [Yarn](https://yarnpkg.com
 Clone the project
 
 ```bash
- git clone https://github.com/aa-win/calculator.git
+ git clone https://github.com/aa-win/calculator-vue.git
 ```
 
 Go to the project directory
